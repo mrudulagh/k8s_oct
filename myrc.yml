@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
         - name: mycontainer
-          image: maha4iac/myonlinebooking:1
+          image: maha4iac/myonlinebooking:3
           ports:
             - containerPort: 8080
